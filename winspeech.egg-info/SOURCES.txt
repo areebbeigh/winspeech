@@ -1,0 +1,10 @@
+LICENSE
+MANIFEST.in
+setup.cfg
+setup.py
+winspeech.py
+winspeech.egg-info/PKG-INFO
+winspeech.egg-info/SOURCES.txt
+winspeech.egg-info/dependency_links.txt
+winspeech.egg-info/requires.txt
+winspeech.egg-info/top_level.txt

@@ -1,0 +1,51 @@
+Metadata-Version: 1.1
+Name: winspeech
+Version: 1.0.1
+Summary: Speech recognition and synthesis module for Windows - Python 2 and 3.
+Home-page: https://github.com/areebbeigh/winspeech
+Author: Areeb Beigh
+Author-email: areebbeigh@gmail.com
+License: Apache License 2.0
+Description: 
+        Speech recognition and synthesis library for Windows - Python 2 and 3.
+        Based on the abandoned Python 2 library https://github.com/michaelgundlach/pyspeech.
+        
+        This module adds contains a few more features, the important one being the ability to create
+        in-process speech recognizers.
+        
+        Author: Areeb Beigh <areebbeigh@gmail.com>
+        GitHub: https://github.com/areebbeigh/winspeech
+        
+        License:
+            Copyright 2016 Areeb Beigh
+        
+            Licensed under the Apache License, Version 2.0 (the "License");
+            you may not use this file except in compliance with the License.
+            You may obtain a copy of the License at
+        
+               http://www.apache.org/licenses/LICENSE-2.0
+        
+            Unless required by applicable law or agreed to in writing, software
+            distributed under the License is distributed on an "AS IS" BASIS,
+            WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+            See the License for the specific language governing permissions and
+            limitations under the License.
+        
+Keywords: speech recognition synthesis tts text-to-speech windows SAPI
+Platform: UNKNOWN
+Classifier: Development Status :: 4 - Beta
+Classifier: Intended Audience :: Developers
+Classifier: Operating System :: Microsoft :: Windows
+Classifier: Topic :: Text Processing :: Linguistic
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
+Classifier: Topic :: Home Automation
+Classifier: Topic :: Scientific/Engineering :: Human Machine Interfaces
+Classifier: Topic :: Multimedia :: Sound/Audio :: Speech
+Classifier: License :: OSI Approved :: Apache Software License
+Classifier: Programming Language :: Python :: 2
+Classifier: Programming Language :: Python :: 2.6
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.3
+Classifier: Programming Language :: Python :: 3.4
+Classifier: Programming Language :: Python :: 3.5
