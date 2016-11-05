@@ -3,7 +3,7 @@ Speech recognition and synthesis library for Windows - Python 2 and 3.
 
 This is a simple Python library based on the abandoned <a href="https://github.com/michaelgundlach/pyspeech">PySpeech library</a> for Python 2.
 
-**PyPI:** https://pypi.python.org/pypi/winspeech
+**PyPI:** https://pypi.python.org/pypi/winspeech<br>
 **Doc:** https://pythonhosted.org/winspeech/
 
 ##Example
