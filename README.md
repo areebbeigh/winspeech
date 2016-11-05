@@ -7,7 +7,7 @@ This is a simple Python library based on the abandoned <a href="https://github.c
 **Doc:** https://pythonhosted.org/winspeech/
 
 ##Installation
-`pip install winspeech`
+`> pip install winspeech`
 
 ##Example
 
@@ -50,7 +50,7 @@ while listener.is_listening():
 ```
 
 ##Contributing
-Feel free to fork the repo and any improvements/additions. I love pull requests.
+Feel free to fork the repo and make any improvements/additions. I love pull requests.
 
 ##Additional Info
 **Developer:** Areeb Beigh <areebbeigh@gmail.com><br>
