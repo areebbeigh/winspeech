@@ -7,6 +7,9 @@
 # Top secret
 .pyirc
 
+# For pythonhosted.org
+docs/index.zip
+
 # Windows image file caches
 Thumbs.db
 ehthumbs.db
