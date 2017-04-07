@@ -86,8 +86,8 @@ class Listener(object):
 
     def __init__(self, context, grammar, callback):
         """
-        This should never be called directly; use speech.listen_for()
-        and speech.listen_for_anything() to create Listener objects.
+        This should never be called directly; use winspeech.listen_for()
+        and winspeech.listen_for_anything() to create Listener objects.
         """
         self._grammar = grammar
         Listener._all.add(self)
@@ -247,7 +247,7 @@ def _start_listening(phrase_list, callback):
 
     Execution takes place on a single thread shared by all listener callbacks.
     """
-    # Make a command-and-control grammar        
+    # Make a command-and-control grammar
     context = _recognizer.CreateRecoContext()
     grammar = context.CreateGrammar()
 
