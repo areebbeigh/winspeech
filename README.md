@@ -6,10 +6,10 @@ This is a simple Python library based on the abandoned <a href="https://github.c
 **PyPI:** https://pypi.python.org/pypi/winspeech<br>
 **Doc:** https://pythonhosted.org/winspeech/
 
-##Installation
+## Installation
 `> pip install winspeech`
 
-##Example
+## Example
 
 ```
 # Say anything you type, and write anything you say.
@@ -49,7 +49,7 @@ while listener.is_listening():
 
 ```
 
-##Contributing
+## Contributing
 Feel free to fork the repo and make any improvements/additions. I love pull requests.
 
 ##Additional Info
