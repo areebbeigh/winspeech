@@ -52,6 +52,6 @@ while listener.is_listening():
 ## Contributing
 Feel free to fork the repo and make any improvements/additions. I love pull requests.
 
-##Additional Info
+## Additional Info
 **Developer:** Areeb Beigh <areebbeigh@gmail.com><br>
 **GitHub Repo:** https://github.com/areebbeigh/winspeech
